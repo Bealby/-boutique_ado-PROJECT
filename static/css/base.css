@@ -5,7 +5,7 @@ html {
 body {
     background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: calc(100vh - 164px);
+    height: calc(100vh - 4.625rem);
     color: #555;
     font-family: 'Lato';
 }
@@ -28,7 +28,7 @@ body {
 }
 
 .shop-now-button {
-    background: black;
+    background: ;
     color: white;
     min-width: 260px;
 }
@@ -277,7 +277,7 @@ input[name='q']::placeholder {
     }
 
     .header-container {
-        padding-top: 164px;
+        padding-top: 50px;
     }
 }
 
